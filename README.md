@@ -1,12 +1,20 @@
--  Hi, I’m @April-18
-- ...
-- ...
-- Full Stack Development
-- ...
-- ...
+🧩 ByteSize Lessons — C# Backend Development
 
 
-<!---
-April-18/April-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📖 About This Repo
+- 🏗️ Based on concepts taught in a C# backend bootcamp.  
+- ✂️ Each tutorial is a bite-sized snippet from a larger module.  
+- 🚀 Goal: make learning backend development 
+- 🎯 Topics include: APIs, Entity Framework, SQL, 
+
+---
+
+## 📚 Example Lessons
+- Lesson 01: Setting up a Web API in C#  
+- Lesson 02: Connecting to MySQL with Entity Framework  
+- Lesson 03: Building CRUD operations  
+- Lesson 04: Authentication basics  
+
+---
+
+
